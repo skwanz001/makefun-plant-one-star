@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: "One Star, Written in Sap" (u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4) — one line, under 280 characters, in the voice of a houseplant leaving a 1-star review of its human owner. Built with the brainstorming skill (angles first, one strong original idea picked) and the make_fun_submission_preflight skill (stdlib-only entrypoint, tested with third-party imports blocked from a clean directory).
